@@ -38,7 +38,7 @@ A proposta se sustenta em três eixos principais de atuação:
 O projeto está alinhado com as seguintes metas globais da ONU:
 * **ODS 4 - Educação de Qualidade:** Promovendo a alfabetização digital para todas as idades.
 * **ODS 10 - Redução das Desigualdades:** Incluindo digitalmente e socialmente uma população frequentemente marginalizada pela evolução tecnológica rápida.
-
+* **ODS 16 - Paz, Justiça e Instituições Eficazes:** Promovendo a inclusão social e garantindo o acesso à informação e aos direitos civis da população idosa na era digital.
 ---
 
 ## 🚀 Status Atual
